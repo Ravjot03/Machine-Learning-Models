@@ -41,3 +41,7 @@ Third part contains the Preprocesssing and Pipeline of the data.
 Last part of the jupyter notebook contains basics of another classification model named Support Vector Machines (SVM).
 
 Dataset used: diabetess.csv
+
+# 3. XGBoost Jupyter Notebook:
+
+This jupyter notebook contains Tutorials on XGBoost Model.
