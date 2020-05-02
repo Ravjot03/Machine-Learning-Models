@@ -30,7 +30,7 @@ Dataset used: Fruits.txt
 
 # 2. Classification Models:
 
-First part of this jupyter notebook contains KNearaest Neighbors Classifier Model with different model selectioon like train_test_split and cross validation model. 
+First part of this jupyter notebook contains KNearest Neighbors Classifier Model with different model selectioon like train_test_split and cross validation model. 
 
 Second part of this notebook contains "Fine Tuning of the Model" i.e. how to get Classification Report and Confusion Matrix.
 
