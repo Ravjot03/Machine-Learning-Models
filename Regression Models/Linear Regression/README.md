@@ -29,7 +29,19 @@ There are five basic steps when you’re implementing linear regression:
 ---
 ### [Introduction](https://github.com/Ravjot03/Machine-Learning-Models/tree/master/Regression%20Models/Linear%20Regression/Introduction)
 
-In this part, I have explained how to implement a Simple Linear Regression Model and do predictions.
+In this sub-part, I have explained how to implement a Simple Linear Regression Model and do predictions.
 
 ---
 ### [Advanced](https://github.com/Ravjot03/Machine-Learning-Models/tree/master/Regression%20Models/Linear%20Regression/Advanced)
+In this sub-part, I have explained implementation of different types of linear regression model - 
+  
+  - Implemented Simple Linear Regression Model
+  - Applied Cross Validation to estimate our model's accuracy.
+  - Applied Regularized Regression Models
+    - Ridge Regression Model
+    - Lasso Regression Model
+  - Pre-processing data and Hyperparameters tuning
+    - SimpleImputer, StandardScaler
+    - Elastic Net Regularization Regression 
+
+I have worked on [Gapminder Data](https://www.gapminder.org/), to predict the life expectancy in a given country based on features such as the country's GDP, fertility rate, and population.
