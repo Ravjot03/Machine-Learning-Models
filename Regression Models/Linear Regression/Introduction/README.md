@@ -1,4 +1,4 @@
-# Linear Regression Introduction
+# Linear Regression Model - Introduction
 
 In this jupyter notebook, I have explained how to build a Simple Linear Regression Model.
 
