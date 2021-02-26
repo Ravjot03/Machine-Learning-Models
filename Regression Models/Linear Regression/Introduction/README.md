@@ -1,6 +1,6 @@
 # Linear Regression Introduction
 
-In this repository, I have explained how to build a Simple Linear Regression Model.
+In this jupyter notebook, I have explained how to build a Simple Linear Regression Model.
 
 I have used Weather dataset.
 
