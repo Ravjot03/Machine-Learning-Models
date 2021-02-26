@@ -15,4 +15,4 @@ In this jupyter notebook, I have built different types of linear regression mode
 ## Data info -
 Worked on Gapminder Data, to predict the life expectancy in a given country based on features such as the country's GDP, fertility rate, and population.
 
-The dataset is already provided in the repository. [link](https://github.com/Ravjot03/Machine-Learning-Models/blob/master/Regression%20Models/Linear%20Regression/Advanced/gapminder.csv)
+The dataset is already provided in the repository. [(link)](https://github.com/Ravjot03/Machine-Learning-Models/blob/master/Regression%20Models/Linear%20Regression/Advanced/gapminder.csv)
