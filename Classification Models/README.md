@@ -19,6 +19,25 @@ The study of classification in statistics is vast, and there are several types o
 - **Project-2**
 ---
 ## [Project-1](https://github.com/Ravjot03/Machine-Learning-Models/tree/master/Classification%20Models/Project-1)
-## [Project-2](https://github.com/Ravjot03/Machine-Learning-Models/tree/master/Classification%20Models/Project-2)
+In this project, I have explained basics of different types of classification models and their implementations.
 
+Models covered -
+- Logistic Regression Model
+- Decision Tree Classifier
+- KNearest Neighbors Model
+- Support Vector Machines Classifier
+
+---
+## [Project-2](https://github.com/Ravjot03/Machine-Learning-Models/tree/master/Classification%20Models/Project-2)
+In this project, I have built a classifier to predict Diabetes disease.
+
+- Implemented k-NN Classification Model.
+- Applied Cross Validation to estimate our model's accuracy.
+- Getting the Classification Report and Confusion Matrix.
+- Applying Hyperparameters
+  - GridSearchCV
+  - RandomizedSearchCV
+- Implemented Ridge Classification Model
+- Implemented Support Vector Machines Classifier
+---
 
