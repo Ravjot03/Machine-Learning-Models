@@ -39,5 +39,8 @@ In this project, I have built a classifier to predict Diabetes disease.
   - RandomizedSearchCV
 - Implemented Ridge Classification Model
 - Implemented Support Vector Machines Classifier
+
+Worked on Diabetes Disease dataset and can be downloaded from UCI Machine Learning Repository.[(link)](https://github.com/Ravjot03/Machine-Learning-Models/blob/master/Classification%20Models/Project-2/diabetess.csv)
+
 ---
 
