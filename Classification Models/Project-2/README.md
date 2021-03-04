@@ -26,3 +26,6 @@ In this project, I have built a classifier to predict Diabetes disease.
     - **Part-3 Support Vector Machines Classifier**
     - Applied another algorithm Classification Model
       - Support Vector Machines Classifier
+---
+## Data info:
+The diabetes data set was originated from UCI Machine Learning Repository and can be downloaded from [here](https://github.com/Ravjot03/Machine-Learning-Models/blob/master/Classification%20Models/Project-2/diabetess.csv) (Or also provided in the repo).
